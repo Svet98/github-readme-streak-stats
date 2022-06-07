@@ -51,4 +51,10 @@ return [
         "Current Streak" => "Atual Sequência",
         "Longest Streak" => "Maior Sequência",
     ],
+    "ru" => [
+        "Total Contributions" => "Общий вклад",
+        "Current Streak" => "Текущие работы (Streak)",
+        "Longest Streak" => "Прошлые работы (Streak)",
+    ],
+
 ];
